@@ -20,8 +20,8 @@ def update_status
       }
    }
 
-  # Write code that changes the status of both Romeo and Juliet from "alive" to "dead"
-  # Code your solution here:
+  epic_tragedy[:montague][:hero][:status] = "Dead"# Write code that changes the status of both Romeo and Juliet from "alive" to "dead"
+  epic_tragedy[:capulet][:heroine][:status] = "Dead"# Code your solution here:
 
 
 
